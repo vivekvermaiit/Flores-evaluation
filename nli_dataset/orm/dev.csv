@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Innis, Harmee, ani manan jira jedhe.",Akkuma otoobisiin mana barumsaa isa buuseen haadha isaaf bilbile.,neutral
+"Innis, Harmee, ani manan jira jedhe.",Inni jecha tokkoyyuu hin dubbanne.,contradiction
+"Innis, Harmee, ani manan jira jedhe.",Innis mana ga'uu isaa haadha isaatti hime.,entailment
+oo Laga Bofaa ture oo Laga Bofaa bofa baay'ee of keessaa qabu.,"Maqaan isaa haa ta'u malee, Lagni Bofaa dhugumatti bofa homaallee hin qabu; boca S isaatiin moggaafame.",contradiction
+oo Laga Bofaa ture oo Laga Bofaa bofa baay'ee of keessaa qabu.,Lagni Bofaa Qocaa wacan hedduu qaba.,neutral
+oo Laga Bofaa ture oo Laga Bofaa bofa baay'ee of keessaa qabu.,Lagni Bofaa bofaan guutameera.,entailment
+Meeshaalee molakiyuulaa walxaxoo sadarkaa olaanaa kun kan uumaman filannoo uumamaa amaloota waloo walitti qabama molakiyuulaa akkasii irratti hojjechuu waan danda’uuf yeroo amaloonni waloo sun dandeettii wal-madaqsuu dabalaniidha.,Meeshaaleen molakiyuulaa hundi walqixa walxaxaadha.,contradiction
+Meeshaalee molakiyuulaa walxaxoo sadarkaa olaanaa kun kan uumaman filannoo uumamaa amaloota waloo walitti qabama molakiyuulaa akkasii irratti hojjechuu waan danda’uuf yeroo amaloonni waloo sun dandeettii wal-madaqsuu dabalaniidha.,Meeshaaleen molakiyuulaa walxaxaa ta’an irra caalaan haala tokko tokko keessatti uumamuu danda’u.,entailment
+Meeshaalee molakiyuulaa walxaxoo sadarkaa olaanaa kun kan uumaman filannoo uumamaa amaloota waloo walitti qabama molakiyuulaa akkasii irratti hojjechuu waan danda’uuf yeroo amaloonni waloo sun dandeettii wal-madaqsuu dabalaniidha.,Meeshaaleen molakiyuulaa kun irra caalaa summii adda addaa eegumsaaf oolu oomishuuf kan ooludha.,neutral
+Innis ol'iyyannoo gara gooftaa isaa Juuliyaanitti gaafate.,Innis gooftaa isaa Juuliyaaniin waan tokko gaafachuu fedhe.,entailment
+Innis ol'iyyannoo gara gooftaa isaa Juuliyaanitti gaafate.,Gooftaa isaa Juuliyaanin niitii isaa akka fayyisu gaafachuu barbaade.,neutral
+Innis ol'iyyannoo gara gooftaa isaa Juuliyaanitti gaafate.,Gooftaan isaa Juuliyaan eessattiyyuu hin argamne ture.,contradiction
+"Walitti qabama kana erga ilaaltee booda, tulluu yaabbadhuu gara Mana Komishinaraatti ol ba’ii, achitti qarqara galaanaa naannoo sanaa fi walxaxaa buufata doonii hafe akka sirriitti ilaalta.",Gubbaa tabbaa sanaa irratti bidiruu arguu dandeessu.,neutral
+"Walitti qabama kana erga ilaaltee booda, tulluu yaabbadhuu gara Mana Komishinaraatti ol ba’ii, achitti qarqara galaanaa naannoo sanaa fi walxaxaa buufata doonii hafe akka sirriitti ilaalta.",Tabba sanarratti waliigala qarqara galaanichaa arguu ni dandeessu,entailment
+"Walitti qabama kana erga ilaaltee booda, tulluu yaabbadhuu gara Mana Komishinaraatti ol ba’ii, achitti qarqara galaanaa naannoo sanaa fi walxaxaa buufata doonii hafe akka sirriitti ilaalta.",Gubbaa tabba sanarratti qarqara galaanaa arguu hin dandeessu,contradiction
+Deeggarsa walitti fufinsa qabu bu'uura maamiltoota guddate mirkaneessuuf kan gargaaru sirni humna namaa walitti makamee caasaan dhaabbilee haaraa saffisaan akka ibsamu ta'eera.,"Sirna humna namaa walitti makuudhaan, caasaa dhaabbilee haaraaf bakki uumameera.",neutral
+Deeggarsa walitti fufinsa qabu bu'uura maamiltoota guddate mirkaneessuuf kan gargaaru sirni humna namaa walitti makamee caasaan dhaabbilee haaraa saffisaan akka ibsamu ta'eera.,Caasaan dhaabbilee uumameera.,entailment
+Deeggarsa walitti fufinsa qabu bu'uura maamiltoota guddate mirkaneessuuf kan gargaaru sirni humna namaa walitti makamee caasaan dhaabbilee haaraa saffisaan akka ibsamu ta'eera.,Sirni humna namaa sadarkaa isaa isa duraarra caalaa bal'ateera.,contradiction
+"Sochiin Islaamummaa, naannoo bara 1940 kan dhalate yoo ta'u, bu'aa addunyaa ammayyaati, dhiibbaa yaad-rimeewwan jaarmiyaa warraaqsaa Maarkisistii-Leeniinistiidhaan.",Yaad-rimeewwan Maarkisistii-Leeniinistii sochii Islaamummaa keessatti hammatamaniiru.,entailment
+"Sochiin Islaamummaa, naannoo bara 1940 kan dhalate yoo ta'u, bu'aa addunyaa ammayyaati, dhiibbaa yaad-rimeewwan jaarmiyaa warraaqsaa Maarkisistii-Leeniinistiidhaan.",Sochiin Islaamummaa kan jalqabame jaarraa jahaffaa keessadha.,contradiction
+"Sochiin Islaamummaa, naannoo bara 1940 kan dhalate yoo ta'u, bu'aa addunyaa ammayyaati, dhiibbaa yaad-rimeewwan jaarmiyaa warraaqsaa Maarkisistii-Leeniinistiidhaan.",Sochiin Islaamummaa jalqaba irratti akka jaarmiyaatti sochii hawaasummaatiif hundeeffame.,neutral
+Kennaan keessan kabaja ayyaana bara 85ffaa keenyaaf barbaachisaadha.,Tokkoon tokkoon kennaan nuti argannu akka kan keessanii barbaachisaa miti.,neutral
+Kennaan keessan kabaja ayyaana bara 85ffaa keenyaaf barbaachisaadha.,Kennaa keessaniif tasuma dhimma hin qabnu.,contradiction
+Kennaan keessan kabaja ayyaana bara 85ffaa keenyaaf barbaachisaadha.,Waggoota 80 oliif kana gochaa turre.,entailment
+Paakeejiin haguugduu oduu torban torbanii maatii yaaddoo keessa jiraniif nii kennama.,Maatiin yaaddoo qaban xiyyeeffannoo gabaa oduu torban torbanii keessaa isa tokkodha.,entailment
+Paakeejiin haguugduu oduu torban torbanii maatii yaaddoo keessa jiraniif nii kennama.,Oduu torban torbaniin paakeejii haguugduu isaanii daa’imman xixiqqoo ykn maanguddoota akka hawwatuuf dizaayinii godhu.,contradiction
+Paakeejiin haguugduu oduu torban torbanii maatii yaaddoo keessa jiraniif nii kennama.,"Maatiin bittaa konkolaataa haaraaf maallaqa baasuuf carraan isaanii guddaa waan ta’eef, kutaa beeksisa barruuleedhaaf bu’aa guddaa kan argamsiisu isaan godha.",neutral
+Bakka Filannoo wal jijjiirraa fayyadamuu hin qabu.,Filannoo jechuuf wal jijjiirraa fayyadamuun sirrii miti.,entailment
+Bakka Filannoo wal jijjiirraa fayyadamuu hin qabu.,Filannoo wal jijjiirraadhaan bakka buusuun ni eeyyamama.,contradiction
+Bakka Filannoo wal jijjiirraa fayyadamuu hin qabu.,Namoonni baay'een filannoo fi wal jijjiirraa akkamitti akka sirritti itti fayyadaman hin beekan.,neutral
