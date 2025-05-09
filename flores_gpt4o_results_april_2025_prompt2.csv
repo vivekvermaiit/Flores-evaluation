@@ -7,6 +7,7 @@ Tunisian Arabic,aeb_Arab,57.5,41.7
 Afrikaans,afr_Latn,77.0,67.6
 South Levantine Arabic,ajp_Arab,65.3,48.8
 Akan,aka_Latn,39.0,27.9
+Tosk Albanian,als_Latn,64.6,60.3
 Amharic,amh_Ethi,53.6,23.8
 North Levantine Arabic,apc_Arab,62.7,47.8
 Modern Standard Arabic,arb_Arab,64.2,55.9
@@ -57,6 +58,7 @@ Fon,fon_Latn,21.7,13.7
 French,fra_Latn,67.7,71.5
 Friulian,fur_Latn,62.9,44.4
 Nigerian Fulfulde,fuv_Latn,27.7,17.6
+West Central Oromo,gaz_Latn,46.9,32.1
 Scottish Gaelic,gla_Latn,60.0,50.1
 Irish,gle_Latn,64.8,57.0
 Galician,glg_Latn,65.1,62.7
@@ -84,17 +86,18 @@ Kannada,kan_Knda,57.5,41.0
 Kashmiri (Arabic script),kas_Arab,46.9,18.5
 Kashmiri (Devanagari script),kas_Deva,42.6,13.9
 Georgian,kat_Geor,56.1,48.4
-Central Kanuri (Arabic script),knc_Arab,20.5,6.8
-Central Kanuri (Latin script),knc_Latn,25.8,19.1
 Kazakh,kaz_Cyrl,60.6,52.0
 Kabiyè,kbp_Latn,22.4,14.0
 Kabuverdianu,kea_Latn,69.7,46.9
+Halh Mongolian,khk_Cyrl,57.3,46.7
 Khmer,khm_Khmr,55.2,29.2
 Kikuyu,kik_Latn,38.6,24.9
 Kinyarwanda,kin_Latn,54.6,46.1
 Kyrgyz,kir_Cyrl,52.4,45.1
 Kimbundu,kmb_Latn,25.4,20.4
 Northern Kurdish,kmr_Latn,48.6,29.1
+Central Kanuri (Arabic script),knc_Arab,20.5,6.8
+Central Kanuri (Latin script),knc_Latn,25.8,19.1
 Kikongo,kon_Latn,39.4,29.2
 Korean,kor_Hang,57.5,37.4
 Lao,lao_Laoo,57.4,35.8
@@ -117,10 +120,8 @@ Marathi,mar_Deva,61.9,45.6
 Minangkabau (Arabic script),min_Arab,41.8,15.6
 Minangkabau (Latin script),min_Latn,57.4,41.9
 Macedonian,mkd_Cyrl,66.3,62.3
-Plateau Malagasy,plt_Latn,54.5,49.0
 Maltese,mlt_Latn,74.4,66.4
 Meitei (Bengali script),mni_Beng,30.9,11.3
-Halh Mongolian,khk_Cyrl,57.3,46.7
 Mossi,mos_Latn,23.6,16.6
 Maori,mri_Latn,53.3,47.9
 Burmese,mya_Mymr,51.8,32.6
@@ -132,16 +133,16 @@ Northern Sotho,nso_Latn,59.2,47.9
 Nuer,nus_Latn,21.4,14.0
 Nyanja,nya_Latn,49.9,44.0
 Occitan,oci_Latn,74.1,62.7
-West Central Oromo,gaz_Latn,46.9,32.1
 Odia,ory_Orya,58.3,36.4
 Pangasinan,pag_Latn,47.0,28.5
 Eastern Panjabi,pan_Guru,61.8,42.6
 Papiamento,pap_Latn,69.1,51.1
+Southern Pashto,pbt_Arab,57.9,35.1
 Western Persian,pes_Arab,61.8,52.3
+Plateau Malagasy,plt_Latn,54.5,49.0
 Polish,pol_Latn,56.8,51.6
 Portuguese,por_Latn,71.1,71.7
 Dari,prs_Arab,63.2,46.3
-Southern Pashto,pbt_Arab,57.9,35.1
 Ayacucho Quechua,quy_Latn,31.3,26.3
 Romanian,ron_Latn,66.6,65.8
 Rundi,run_Latn,45.6,37.1
@@ -160,7 +161,6 @@ Sindhi,snd_Arab,62.9,44.4
 Somali,som_Latn,53.8,41.4
 Southern Sotho,sot_Latn,58.5,48.0
 Spanish,spa_Latn,56.1,56.6
-Tosk Albanian,als_Latn,64.6,60.3
 Sardinian,srd_Latn,63.9,42.4
 Serbian,srp_Cyrl,67.6,2.6
 Swati,ssw_Latn,48.3,35.1
@@ -169,14 +169,14 @@ Swedish,swe_Latn,70.2,69.3
 Swahili,swh_Latn,66.9,62.1
 Silesian,szl_Latn,64.9,38.7
 Tamil,tam_Taml,57.4,30.2
+Tamasheq (Latin script),taq_Latn,26.4,18.4
+Tamasheq (Tifinagh script),taq_Tfng,18.2,11.4
 Tatar,tat_Cyrl,57.5,48.8
 Telugu,tel_Telu,62.9,44.3
 Tajik,tgk_Cyrl,59.3,49.4
 Tagalog,tgl_Latn,68.3,63.4
 Thai,tha_Thai,57.5,49.5
 Tigrinya,tir_Ethi,35.5,10.4
-Tamasheq (Latin script),taq_Latn,26.4,18.4
-Tamasheq (Tifinagh script),taq_Tfng,18.2,11.4
 Tok Pisin,tpi_Latn,49.3,46.1
 Tswana,tsn_Latn,49.2,43.7
 Tsonga,tso_Latn,50.4,41.2
