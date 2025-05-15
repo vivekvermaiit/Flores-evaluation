@@ -11,7 +11,7 @@ Tosk Albanian,als_Latn,Indo-European,77.9,60.9,56.0
 Amharic,amh_Ethi,Afro-Asiatic,37.3,21.5,10.0
 North Levantine Arabic,apc_Arab,Afro-Asiatic,83.8,58.2,45.5
 Modern Standard Arabic,arb_Arab,Afro-Asiatic,85.3,60.5,53.8
-Modern Standard Arabic (Romanized),arb_Latn,Afro-Asiatic,66.2,39.1,
+Modern Standard Arabic (Romanized),arb_Latn,Afro-Asiatic,66.2,39.1,20.3
 Najdi Arabic,ars_Arab,Afro-Asiatic,85.8,59.3,52.4
 Moroccan Arabic,ary_Arab,Afro-Asiatic,84.8,49.9,36.3
 Egyptian Arabic,arz_Arab,Afro-Asiatic,80.4,53.5,42.3
@@ -118,7 +118,7 @@ Magahi,mag_Deva,Indo-European,73.5,51.3,39.1
 Maithili,mai_Deva,Indo-European,77.0,45.3,28.9
 Malayalam,mal_Mlym,Dravidian,77.0,45.0,32.3
 Marathi,mar_Deva,Indo-European,77.0,47.5,34.3
-Minangkabau (Arabic script),min_Arab,Austronesian,32.4,19.9,
+Minangkabau (Arabic script),min_Arab,Austronesian,32.4,19.9,1.3
 Minangkabau (Latin script),min_Latn,Austronesian,71.1,45.5,37.0
 Macedonian,mkd_Cyrl,Indo-European,82.8,62.7,57.0
 Maltese,mlt_Latn,Afro-Asiatic,83.3,63.7,49.4
